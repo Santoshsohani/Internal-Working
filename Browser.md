@@ -1,7 +1,7 @@
 
 ### **The Browser's Main Components**
 
-![[Browser_Components.png]]
+![Browser Components](Media/Browser_Components.png)
 
 
 1. **Data**: Handles session management, cookies, local storage, and indexed databases.
